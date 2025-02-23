@@ -1,0 +1,47 @@
+# Essential Guide to Keeping a Capybara in Poland
+
+## 1. Legal Considerations
+Before acquiring a capybara in Poland, you must ensure that you comply with all legal regulations regarding exotic pets.
+
+- **Exotic pet permit**: In Poland, capybaras are considered exotic animals, and as such, you are required to obtain a permit from the General Directorate for Environmental Protection (GDOŚ) and local veterinary authorities. This is mandated by the *Ustawa o ochronie przyrody* (Nature Protection Act) that governs the care and keeping of exotic species. The application process involves providing detailed information about your living arrangements and ensuring that you meet all habitat and animal welfare requirements.
+  
+- **Zoning laws**: You need to check your local zoning regulations before bringing a capybara to your property. Some municipalities may have restrictions on keeping exotic animals, including space requirements or limits on animal types. Be sure to consult with your local authorities regarding regulations specific to your region.
+
+- **Veterinary care**: Capybaras require specialized veterinary care. It is crucial to find a veterinarian with experience in exotic animals, especially those familiar with the specific needs of capybaras. They may need regular health checks and have unique dietary and medical needs. Veterinary services specializing in exotic animals can be found in many cities.
+
+## 2. Housing Requirements
+Capybaras need plenty of space and proper facilities to thrive. In Poland, where winters can be harsh, it is essential to provide a suitable environment that allows capybaras to maintain their natural behaviors.
+
+- **Outdoor space**: Each capybara requires at least 18.5 m² of space. This area must be securely fenced with a fence at least 1.2 meters high. Capybaras are excellent swimmers and need a large pool or water feature where they can swim, which is essential for their physical and mental well-being. The pool should be cleaned and maintained regularly to prevent bacterial growth.
+
+[fotka outdoor space]
+
+- **Indoor space**: In the colder months, capybaras will need access to an indoor space that is temperature-controlled between 18°C and 27°C. The flooring should be non-slip to prevent injury, and waterproof materials are necessary to handle the moisture they generate. A soft bedding area should be provided for resting and sleeping.
+
+## 3. Diet and Nutrition
+Capybaras have specific dietary requirements that must be met for them to remain healthy. They are herbivores and require a diet rich in fiber, along with regular hydration.
+
+- **Hay and grass (80%)**: The majority of a capybara’s diet should consist of fresh grass and high-quality hay. Suitable hay types include timothy hay and meadow hay, both of which provide essential fiber for digestion. Grass should be free from pesticides and chemicals to avoid poisoning. In Poland, you may need to source fresh grass or high-quality hay from specialized stores.
+
+- **Vegetables (20%)**: Fresh vegetables like leafy greens (e.g., dandelion, lettuce), carrots, sweet potatoes, and squash should make up around 20% of their diet. These vegetables provide important vitamins and minerals. However, avoid offering too much fruit as it is high in sugar.
+ 
+- **Vitamin C**: Unlike humans, capybaras cannot produce their own vitamin C. Therefore, it's essential to supplement their diet with vitamin C to prevent scurvy. This can be done through vegetables like bell peppers, or a specially formulated vitamin C supplement.
+ 
+
+## 4. Health Care
+Capybaras need regular health care to ensure they stay healthy. Preventive care, in particular, is essential for their well-being in Poland’s climate, where extreme weather conditions may affect their health.
+
+- **Vet check-ups**: Regular vet visits are recommended 2-4 times per year. These check-ups will include general health evaluations, dental inspections, and parasite screenings. Capybaras' teeth grow continuously, so they require regular trimming to avoid overgrowth, which can cause difficulties eating and potential infections.
+
+- **Parasite prevention**: Capybaras are susceptible to external parasites, including fleas and mites, especially if they spend a lot of time outdoors. Regular anti-parasite treatments are necessary, particularly during the warmer months. If your capybara lives in Poland, consider using natural, non-toxic treatments to avoid exposure to harmful chemicals.
+
+- **Teeth and nails**: Capybaras' teeth grow continuously and can become problematic if not properly managed. Regular dental check-ups are essential to ensure they do not develop malocclusion (misalignment). Additionally, capybaras’ nails grow quickly, requiring regular trimming every 2-3 months to prevent overgrowth and potential injury.
+ 
+
+## 5. Social and Environmental Enrichment
+Capybaras are highly social animals and need plenty of stimulation to stay happy and healthy. This is particularly important in colder months when they may not have as much access to outdoor environments.
+
+- **Companionship**: Capybaras are very social animals and should not be kept alone. It is recommended to keep at least two capybaras together to ensure they have companionship and do not become lonely or stressed. This is critical for their emotional well-being.
+
+- **Enrichment**: Provide your capybara with daily opportunities for social interaction, swimming, and mental stimulation. Toys such as large balls or floating pool toys are great for encouraging play. Enrichment activities like training sessions (using positive reinforcement) and allowing natural foraging behaviors (e.g., scattering hay) are essential for their well-being.
+
