@@ -1,5 +1,7 @@
 # Essential Guide to Keeping a Capybara in Poland
 
+![Capybara photo](resources\images\smiling-capybara.jpeg)
+
 ## 1. Legal Considerations
 Before acquiring a capybara in Poland, you must ensure that you comply with all legal regulations regarding exotic pets.
 
@@ -14,7 +16,7 @@ Capybaras need plenty of space and proper facilities to thrive. In Poland, where
 
 - **Outdoor space**: Each capybara requires at least 18.5 m² of space. This area must be securely fenced with a fence at least 1.2 meters high. Capybaras are excellent swimmers and need a large pool or water feature where they can swim, which is essential for their physical and mental well-being. The pool should be cleaned and maintained regularly to prevent bacterial growth.
 
-[fotka outdoor space]
+![Capybara outdoor space](resources\images\outdoor-space.jpg)
 
 - **Indoor space**: In the colder months, capybaras will need access to an indoor space that is temperature-controlled between 18°C and 27°C. The flooring should be non-slip to prevent injury, and waterproof materials are necessary to handle the moisture they generate. A soft bedding area should be provided for resting and sleeping.
 
